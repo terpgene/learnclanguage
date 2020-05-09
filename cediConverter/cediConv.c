@@ -13,7 +13,7 @@ int main(){
     /* Exchange rate conversion */
 
     cedi = dollar * exchangeRate;
-    printf("Exchange Rate for %f\tis %f Cedis\n", dollar, cedi);
+    printf("Exchange Rate for %3.0f\tis %3.0f Cedis\n", dollar, cedi);
     printf("Thanks for playing along\n");
     
 
